@@ -1,0 +1,7 @@
+{
+  "text_dim": 384,
+  "image_dim": 512,
+  "combined_dim": 896,
+  "n_products": 1000,
+  "n_users": 500
+}
