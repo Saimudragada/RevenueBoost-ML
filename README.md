@@ -232,13 +232,13 @@ python src/bandit/ab_testing.py
 
 ---
 
-## 📞 Contact
+## 📞 678-823-5596
 
-**[Your Name]**
-- 📧 Email: your.email@example.com
+**[SAI MUDRAGADA]**
+- 📧 Email:saimudragada1@gmail.com
 - 💼 LinkedIn: (https://www.linkedin.com/in/saimudragada/)
 - 🐙 GitHub: (https://github.com/Saimudragada)
-- 🌐 Portfolio: (saimudragadaportfolio.vercel.app)
+- 🌐 Portfolio: (https://saimudragadaportfolio.vercel.app/)
 
 ---
 
