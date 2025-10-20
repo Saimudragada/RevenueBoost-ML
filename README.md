@@ -183,12 +183,8 @@ python src/bandit/ab_testing.py
 ### Interactive Recommendations
 ![Recommendations](docs/screenshots/recommendations.png)
 
-### A/B Test Results
-![AB Test](docs/screenshots/ab_test.png)
-
-### Bandit Learning Statistics
-![Bandit Stats](docs/screenshots/bandit_stats.png)
-
+### A/B Test Results - Proven +40% Revenue Improvement
+![AB Test](docs/screenshots/ab_test_results.png)
 ---
 
 ## 🎓 What I Learned
